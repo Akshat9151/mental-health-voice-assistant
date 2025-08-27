@@ -1,0 +1,64 @@
+{
+    "messages": [
+        {
+            "user": "epic",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind?",
+            "emotion": "neutral",
+            "timestamp": "2025-08-22 21:34:04"
+        },
+        {
+            "user": "hi how are you",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind?",
+            "emotion": "neutral",
+            "timestamp": "2025-08-22 21:59:42"
+        },
+        {
+            "user": "three",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind?",
+            "emotion": "neutral",
+            "timestamp": "2025-08-22 21:59:51"
+        },
+        {
+            "user": "happy",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind? \ud83d\ude0a That\u2019s wonderful to hear!",
+            "emotion": "happy",
+            "timestamp": "2025-08-22 21:59:59"
+        },
+        {
+            "user": "hello how are you",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind?",
+            "emotion": "neutral",
+            "timestamp": "2025-08-23 21:10:05"
+        },
+        {
+            "user": "i was happy",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind? \ud83d\ude0a That\u2019s wonderful to hear!",
+            "emotion": "happy",
+            "timestamp": "2025-08-23 21:10:14"
+        },
+        {
+            "user": "sad",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind? \ud83d\udc99 I\u2019m here for you, take your time.",
+            "emotion": "sad",
+            "timestamp": "2025-08-23 21:10:21"
+        },
+        {
+            "user": "hello are you",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind?",
+            "emotion": "neutral",
+            "timestamp": "2025-08-27 21:30:58"
+        },
+        {
+            "user": "today i'm happy",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind? \ud83d\ude0a That\u2019s wonderful to hear!",
+            "emotion": "happy",
+            "timestamp": "2025-08-27 21:31:08"
+        },
+        {
+            "user": "today damn going to do",
+            "bot": "I\u2019m here with you. Would you like to tell me a bit more about what\u2019s on your mind? \ud83d\udc99 I\u2019m here for you, take your time.",
+            "emotion": "sad",
+            "timestamp": "2025-08-27 21:31:21"
+        }
+    ]
+}
